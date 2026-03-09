@@ -6,15 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "WrongEating / Homepage"
-title_separator          : "-"
-name                     : "Wronget1110"
-description              : "It is a website to deal my homework!"
-url                      : https://wronget1110.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wronget1110.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+locale                   : "zh-CN"  # 改成中文
+title                    : "WrongEt / 个人主页"
+title_separator          : "|"       # 可选：用 | 分隔更美观
+name                     : "汪彦廷"
+description              : "南京大学 新闻传播学院 大二"
+url                      : https://wronget1110.github.io/ # 替换成你的仓库域名
+baseurl                  : ""
+repository               : "wronget1110.github.io" # 替换仓库名
+teaser                   : "wronget1110.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -55,14 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,40 +73,14 @@ analytics:
 # Site Author
 author:
   name             : "汪彦廷"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  avatar           : "wronget1110.jpg"
+  bio              : "南大大二"
+  location         : "南京"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "socratesclub"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  email            :  1181365557@qq.com
+  github           : "wronget"
+  instagram        : "wrongeating"
+  weibo            : "小wrong不花心"
 
 
 # Reading Files
