@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello World!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,4 +19,4 @@ Github: https://github.com/socratesclub
 - Yan-Ting Wang https://ronget1110.github.io/
 
 
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+
