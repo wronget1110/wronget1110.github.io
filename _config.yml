@@ -10,7 +10,7 @@ locale                   : "en-US"  #
 title                    : "WrongEt / Homepage"
 title_separator          : "|"       # 可选：用 | 分隔更美观
 name                     : "汪彦廷"
-description              : "南京大学 新闻传播学院 大二"
+description              : "Nanjing University"
 url                      : https://wronget1110.github.io/ # 替换成你的仓库域名
 baseurl                  : ""
 repository               : "wronget1110.github.io" # 替换仓库名
@@ -72,11 +72,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "汪彦廷"
+  name             : "汪彦廷 Wang Yanting"
   avatar           : "wronget1110.jpg"
-  bio              : "南大大二"
-  location         : "南京"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Nanjing University"
+  location         : "Jiangsu Province-China"
   email            :  1181365557@qq.com
   github           : "wronget"
   instagram        : "wrongeating"
