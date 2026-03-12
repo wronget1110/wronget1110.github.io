@@ -16,7 +16,7 @@ Github: https://github.com/socratesclub
 
 ## People
 ### Directer
-- Yan-Ting Wang https://ronget1110.github.io/
+- Yan-Ting Wang https://wronget1110.github.io/
 
 
 
