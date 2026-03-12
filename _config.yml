@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"  # 改成中文
-title                    : "WrongEt / 个人主页"
+locale                   : "en-US"  # 
+title                    : "WrongEt / Homepage"
 title_separator          : "|"       # 可选：用 | 分隔更美观
 name                     : "汪彦廷"
 description              : "南京大学 新闻传播学院 大二"
