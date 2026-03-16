@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "No Academic Rubbish"
 permalink: /publications/
 author_profile: true
 ---
