@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* 本科 南京大学， 2024
+* Undergraduate Nanjing University， 2024
 
 Work experience
 ======
-* 2025冬 : 新媒体宣传岗
-  * 江阴市博物馆
-  * 职责: 新媒体宣传
+* 2025winter : internship
+  * Jiangyin Museum
+  * Position: Newmedia Marketing Officer
 
   
 Skills
 ======
-* 摄影摄像
-* 剪辑
-* 拉二胡
+* Mysql
+* News Report
+* Photographer
+* Video Edit
 
 Publications
 ======
@@ -34,4 +35,5 @@ Publications
   
 Service and leadership
 ======
-* 大数据传播实验班班长
+* Moniter
+* Assistant Minister of Recreation and Sports Department
